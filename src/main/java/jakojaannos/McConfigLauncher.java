@@ -1,3 +1,5 @@
+package jakojaannos;
+
 public class McConfigLauncher {
 
 
